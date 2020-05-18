@@ -1,0 +1,3 @@
+module DataStudentProject {
+	exports StudyTools;
+}
